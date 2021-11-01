@@ -1,0 +1,8 @@
+node_modules
+.env
+yarn-error.log
+yarn.lock
+.editorconfig
+.eslintignore
+.eslintrc.json
+prettier.config.js
